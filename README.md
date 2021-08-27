@@ -20,9 +20,8 @@
 
 
 - 🔭 I’m currently working on [CIS WORLD](https://www.cisworld.lk/).
-- 🌱 I’m currently learning more about ASp.Net Core & React Js.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 📫 How to reach me: [Linkdein - @imthepk](https://rb.gy/i1jcy8) 
+- 🌱 I’m currently learning more about Asp.Net Core & React Js.
+- 📫 How to reach me: [Linkdein](https://rb.gy/i1jcy8) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 6 hours coding  every day.
 
