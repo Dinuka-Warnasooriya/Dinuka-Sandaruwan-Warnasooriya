@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on [Appsdept](https://appsdept.com/).
-- 🌱 I’m currently learning more about Node js & React Js.
+- 🌱 I’m currently learning more about Node js & React Js.I have experience with Laravel
 - 📫 How to reach me: [Linkdein](https://rb.gy/i1jcy8) 
 
 
